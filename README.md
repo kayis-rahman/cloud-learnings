@@ -50,8 +50,8 @@ This project idea covers a wide range of technologies and concepts, allowing you
 
 ### 1. Project Setup:
 
-- [ ] Set up GitHub repository for version control [#1](https://github.com/kayis-rahman/cloud-learnings/issues/1).
-- [ ] Create a new Angular project for the front-end [#2](https://github.com/kayis-rahman/cloud-learnings/issues/2).
+- [x] Set up GitHub repository for version control [#1](https://github.com/kayis-rahman/cloud-learnings/issues/1).
+- [x] Create a new Angular project for the front-end [#2](https://github.com/kayis-rahman/cloud-learnings/issues/2).
 - [ ] Create a new Spring Boot project for the back-end [#3](https://github.com/kayis-rahman/cloud-learnings/issues/3).
 - [ ] Initialize Docker configuration files [#4](https://github.com/kayis-rahman/cloud-learnings/issues/4).
 ### 2. Front-end Development:
